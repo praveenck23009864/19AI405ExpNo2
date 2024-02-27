@@ -54,8 +54,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 </ol></B>
 
 ```
- NAME : DEEPAK RAJ.S
- REG NO : 212222240023
+ NAME : praveen ck
+ REG NO : 212222243003
 ```
 
 ## program:
